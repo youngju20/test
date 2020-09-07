@@ -1,2 +1,7 @@
 print('AAAAAAAAAAAAA')
 print('BBBBB')
+print('BBBBB')
+print('BBBBB')
+print('BBBBB')
+print('BBBBB')
+print('BBBBB')
